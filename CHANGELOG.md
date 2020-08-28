@@ -1,3 +1,7 @@
+# 1.5.9
+
+* added detection for MediaStore.Files uri
+
 # 1.5.8
 
 * Added "no longer actively maintained" message to README
